@@ -5,4 +5,4 @@ config:
         id: frontendapp
         secret: 12345
       jwt:
-        key: codigo_secreto_aeiou
+        key: some_code_key
